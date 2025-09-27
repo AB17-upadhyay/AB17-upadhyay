@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as Backend Data Management for a company having multiple charter schools all over the Arizona
+- 🌱 I’m currently learning SQL and German language
+- 👯 My goal is to learn Machine learning and finally AI in Data Science field.
 <!--
 **AB17-upadhyay/AB17-upadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
